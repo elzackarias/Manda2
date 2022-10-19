@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187015117511",
+    "project_id": "manda2-baaa9",
+    "storage_bucket": "manda2-baaa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187015117511:android:675877a98c1e6c602d5ce2",
+        "android_client_info": {
+          "package_name": "com.manda2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187015117511-g8haqeig48usrkep2v8pdfqtu5ejmq1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLuMqkm5QJ9TRO1WK2daREMQzsl0-iUIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187015117511-g8haqeig48usrkep2v8pdfqtu5ejmq1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
